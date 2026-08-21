@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Gustave AGBASSAH !
+# 👋 Gustave AGBASSAH !
 
 **Administrateur Systèmes, Réseaux & Cloud Azure** avec plus de 4 ans d'expérience dans la gestion, l'automatisation et la sécurisation des infrastructures IT.
 
