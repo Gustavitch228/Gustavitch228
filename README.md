@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Gustave AGBASSAH !
 
-<!--
-**Gustavitch228/Gustavitch228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Administrateur Systèmes, Réseaux & Cloud Azure** avec plus de 4 ans d'expérience dans la gestion, l'automatisation et la sécurisation des infrastructures IT.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mes domaines d'expertise :
+- ☁️ **Cloud & Hybride** : Microsoft Azure, Entra ID, Intune, M365, Autopilot
+- 🖥️ **Systèmes & Virtualisation** : Windows Server, Linux, Active Directory, Hyper-V, Proxmox, VMware
+- ⚡ **Automation & Scripting** : PowerShell, Bash, Python
+- 📊 **Monitoring & Data** : ELK Stack, Zabbix, Power BI, SQL (Oracle/MySQL)
+
+---
+
+### 🎓 Certifications & Diplômes :
+- 🎓 **MBA Management de la Sécurité des SI**
+- 📜 **Microsoft Certified:** Identity and Access Administrator Associate
+- 📜 **Microsoft Certified:** Azure AI Engineer Associate
+
+---
+
+### 📫 Me contacter :
+- 💼 **LinkedIn** : [gustave-agbassah](https://www.linkedin.in/in/gustave-agbassah/)
+- ✉️ **Email** : gustavoagbassah@gmail.com
