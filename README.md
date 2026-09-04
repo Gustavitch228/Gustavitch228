@@ -1,21 +1,21 @@
 # 👋 Gustave AGBASSAH !
 
-**Administration Systèmes, Réseaux & Cloud Azure**
+**Systems, Network & Azure Cloud Administration**
 
-### 🚀 Domaines d'expertise & Compétences :
+### 🚀 Areas of Expertise & Skills:
 
-- ☁️ **Cloud & Gestion des Accès** : Microsoft Azure, Entra ID, Microsoft 365, CoreView, Active Directory, GPO, DNS, DHCP.
-- 🖥️ **Systèmes & Virtualisation** : Windows Server (2016/2019/2022), Linux/Unix, Hyper-V, VMware, Proxmox.
-- 🌐 **Réseaux & Sécurité** : Cisco Meraki (switchs MS, Wi-Fi), SentinelOne, Umbrella Cisco, Tenable.io, Hoxhunt.
-- ⚡ **Automation, Data & Monitoring** : PowerShell, Bash, Python, SQL (MySQL, Oracle, SQL Server), Power BI, ELK Stack, Zabbix.
-- ⚙️ **ERP & Outils Métiers** : SAP S4 HANA, TCPOS.
+- ☁️ **Cloud & Access Management**: Microsoft Azure, Entra ID, Microsoft 365, CoreView, Active Directory, GPO, DNS, DHCP.
+- 🖥️ **Systems & Virtualization**: Windows Server (2016/2019/2022), Linux/Unix, Hyper-V, VMware, Proxmox.
+- 🌐 **Networking & Security**: Cisco Meraki (MS switches, Wi-Fi), SentinelOne, Cisco Umbrella, Tenable.io, Hoxhunt.
+- ⚡ **Automation, Data & Monitoring**: PowerShell, Bash, Python, SQL (MySQL, Oracle, SQL Server), Power BI, ELK Stack, Zabbix.
+- ⚙️ **ERP & Business Tools**: SAP S4 HANA, TCPOS.
 
 ---
 
-### 📜 Certifications & Diplômes :
+### 📜 Certifications & Degrees:
 
-- 🎓 **MBA Management de la Sécurité des SI**
-- 🎓 **Licence Professionnelle Réseaux & Télécoms** 
+- 🎓 **MBA in Information Systems Security Management**
+- 🎓 **Bachelor's Degree in Networks & Telecommunications**
 - 📜 **ITIL® v4 Foundation**
 - 📜 **Microsoft Certified: Identity and Access Administrator Associate**
 - 📜 **Microsoft Certified: Azure AI Engineer Associate**
@@ -25,14 +25,14 @@
 
 ---
 
-### 🌍 Langues :
-- 🇫🇷 **Français** : Maternelle
-- 🇬🇧 **Anglais** : Professionnel
+### 🌍 Languages:
+- 🇫🇷 **French**: Native
+- 🇬🇧 **English**: Professional
 
 ---
 
-### 📫 Me contacter :
-- 📍 **Localisation** : Dakar, Sénégal
-- 💼 **LinkedIn** : [linkedin.com/in/gustave-agbassah](https://www.linkedin.com/in/gustave-agbassah)
-- 📜 **Profil Credly** : [credly.com/users/gustave-agbassah](https://www.credly.com/users/gustave-agbassah)
-- ✉️ **Email** : gustavoagbassah@gmail.com
+### 📫 Contact Me:
+- 📍 **Location**: Dakar, Senegal
+- 💼 **LinkedIn**: [linkedin.com/in/gustave-agbassah](https://www.linkedin.com/in/gustave-agbassah)
+- 📜 **Credly Profile**: [credly.com/users/gustave-agbassah](https://www.credly.com/users/gustave-agbassah)
+- ✉️ **Email**: gustavoagbassah@gmail.com
